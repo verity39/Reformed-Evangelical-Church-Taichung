@@ -306,6 +306,48 @@ body{
   color: #eee;
 }
 
+/* Subpage Template */
+.subpage{
+  min-height: 100vh;
+  padding: 32px 48px 56px;
+  background: var(--accent);
+}
+.subpage-container{
+  max-width: var(--container);
+  margin: 0 auto;
+}
+.subpage-banner{
+  background: var(--maroon);
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  padding: 22px 28px;
+}
+.subpage-banner h1{
+  margin: 0;
+  font-size: 32px;
+  font-weight: 700;
+}
+.subpage-banner p{
+  margin: 8px 0 0;
+  opacity: 0.92;
+}
+.subpage-content{
+  background: #fff;
+  border-radius: 0 0 8px 8px;
+  padding: 28px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.subpage-content h2{
+  margin: 0 0 14px;
+  font-size: 22px;
+  color: #333;
+}
+.subpage-content p{
+  margin: 0;
+  color: #555;
+  line-height: 1.8;
+}
+
 /* Responsive */
 @media (max-width: 900px){
   .links-grid{
@@ -383,5 +425,17 @@ body{
   .gray-section-fullwidth{
     margin: 0 -32px 0 -32px;
     padding: 40px 0;
+  }
+  .subpage{
+    padding: 24px 32px 44px;
+  }
+  .subpage-banner{
+    padding: 18px 22px;
+  }
+  .subpage-banner h1{
+    font-size: 26px;
+  }
+  .subpage-content{
+    padding: 22px;
   }
 }
