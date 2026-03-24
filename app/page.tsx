@@ -74,26 +74,14 @@ export default function Page() {
             <article className="feature">
               <img src="/31.png" alt="我們的信仰" className="feature-image" />
               <h3>我們的信仰</h3>
-              <p>神的愛：對人類無條件的愛<br/>
-              基督的恩典：因信得救<br/>
-              聖靈的大能：生命轉化與引導<br/>
-              聖經真理：生活的根基</p>
             </article>
             <article className="feature">
               <img src="/church.png" alt="我們的教會" className="feature-image" />
               <h3>我們的教會</h3>
-              <p>溫暖的社群：敞開心門迎接每一位<br/>
-              多元的團契：在基督裡合而為一<br/>
-              成長的信心：門徒訓練與學習<br/>
-              同心事奉：參與宣教與關懷</p>
             </article>
             <article className="feature">
               <img src="/Pigeon.png" alt="我們的使命" className="feature-image" />
               <h3>我們的使命</h3>
-              <p>宣揚福音：分享基督的愛<br/>
-              造就門徒：一起在信仰中成長<br/>
-              服務他人：以愛心行動關懷<br/>
-              轉化生命：為世界帶來盼望</p>
             </article>
           </div>
         </div>
