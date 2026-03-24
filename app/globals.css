@@ -151,16 +151,21 @@ body{
   height: 180px;
   object-fit: contain;
   border-radius: 6px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .feature{
   text-align: center;
   padding: 20px;
 }
+.feature-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
 .feature h3{
   font-size: 20px;
   font-weight: 500;
-  margin: 0 0 16px 0;
+  margin: 0;
   color: #333;
   letter-spacing: 0.5px;
 }

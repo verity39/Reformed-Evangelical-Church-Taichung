@@ -72,16 +72,22 @@ export default function Page() {
         <div className="features-container">
           <div className="features-grid">
             <article className="feature">
-              <img src="/31.png" alt="我們的信仰" className="feature-image" />
-              <h3>我們的信仰</h3>
+              <Link href="/christianity" className="feature-link" aria-label="前往我們的信仰頁面">
+                <img src="/31.png" alt="我們的信仰" className="feature-image" />
+                <h3>我們的信仰</h3>
+              </Link>
             </article>
             <article className="feature">
-              <img src="/church.png" alt="我們的教會" className="feature-image" />
-              <h3>我們的教會</h3>
+              <Link href="/about" className="feature-link" aria-label="前往我們的教會頁面">
+                <img src="/church.png" alt="我們的教會" className="feature-image" />
+                <h3>我們的教會</h3>
+              </Link>
             </article>
             <article className="feature">
-              <img src="/Pigeon.png" alt="我們的使命" className="feature-image" />
-              <h3>我們的使命</h3>
+              <Link href="/topics" className="feature-link" aria-label="前往我們的使命頁面">
+                <img src="/Pigeon.png" alt="我們的使命" className="feature-image" />
+                <h3>我們的使命</h3>
+              </Link>
             </article>
           </div>
         </div>
