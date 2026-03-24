@@ -49,11 +49,11 @@ export default function Page() {
               </div>
             </article>
             <article className="event-card">
-              <img src="/02.jpeg" alt="核心課程" className="event-image" />
+              <img src="/02.jpeg" alt="核心教義課程" className="event-image" />
               <div className="event-content">
-                <h3>核心課程</h3>
-                <div className="event-date">每週三 7:30 PM</div>
-                <p className="event-description">深入學習聖經，與弟兄姊妹一同成長，建立彼此的關係。</p>
+                <h3>核心教義課程</h3>
+                <div className="event-date">每月第二和第四週，於主日崇拜會後開始</div>
+                <p className="event-description">我們將深入了解重要的聖經原則，了解歸正神學所認信的信經信條，與弟兄姊妹們一同成長，建立純正的基督教信仰；提供給弟兄姊妹接受本會洗禮、轉會禮、堅振禮前必要的神學觀念。</p>
               </div>
             </article>
             <article className="event-card">
