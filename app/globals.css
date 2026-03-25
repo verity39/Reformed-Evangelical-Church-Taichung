@@ -369,6 +369,14 @@ body{
   color: #555;
   line-height: 1.8;
 }
+.text-link{
+  color: var(--maroon);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.text-link:hover{
+  color: #5f1719;
+}
 
 /* Responsive */
 @media (max-width: 900px){

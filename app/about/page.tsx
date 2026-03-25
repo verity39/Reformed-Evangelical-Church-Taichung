@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function AboutPage() {
 	return (
 		<main className="subpage">
@@ -15,7 +17,12 @@ export default function AboutPage() {
 						臺中歸正福音教會為唐崇榮牧師創辦歸正福音教會之台中分會。我們與印尼總會及全球分會共同作出下列信仰告白：
 					</p>
 					<ul>
-						<li>《歸正福音信仰宣言》（Reformed Evangelical Confession of Faith, 20th Century）</li>
+						<li>
+							<Link href="/about/confession" className="text-link">
+								歸正福音信仰宣言
+							</Link>
+							（Reformed Evangelical Confession of Faith, 20th Century）
+						</li>
 						<li>《佈道信約》（Confession of Evangelism, 20th Century）</li>
 					</ul>
 					<p>
