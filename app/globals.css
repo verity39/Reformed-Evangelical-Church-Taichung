@@ -377,6 +377,15 @@ body{
 .text-link:hover{
   color: #5f1719;
 }
+.document-text{
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: inherit;
+  font-size: 15px;
+  line-height: 1.9;
+  color: #555;
+}
 
 /* Responsive */
 @media (max-width: 900px){

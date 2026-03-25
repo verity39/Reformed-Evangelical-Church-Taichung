@@ -39,7 +39,12 @@ export default function AboutPage() {
 						我們追隨宗教改革運動領袖加爾文（John Calvin）的主張與精神，與全球歸正教會／改革宗教會共同信守歸正／改革宗信仰歷史中最重要的信經、信條：
 					</p>
 					<ul>
-						<li>《西敏信條》（Westminster Confession of Faith, 1646）</li>
+						<li>
+							<Link href="/about/westminster" className="text-link">
+								西敏信條
+							</Link>
+							（Westminster Confession of Faith, 1646）
+						</li>
 						<li>《西敏大要理問答》（Westminster Larger Catechism, 1647）</li>
 						<li>《西敏小要理問答》（Westminster Shorter Catechism, 1647）</li>
 						<li>《多特信經》（The Canons of Dort, 1619）</li>
