@@ -23,7 +23,12 @@ export default function AboutPage() {
 							</Link>
 							（Reformed Evangelical Confession of Faith, 20th Century）
 						</li>
-						<li>《佈道信約》（Confession of Evangelism, 20th Century）</li>
+						<li>
+							<Link href="/about/evangelism" className="text-link">
+								佈道信約
+							</Link>
+							（Confession of Evangelism, 20th Century）
+						</li>
 					</ul>
 					<p>
 						歸正福音教會以歸正神學／改革宗神學（Reformed Theology）為信仰立場，同時強調福音派（Evangelical）的佈道使命。
