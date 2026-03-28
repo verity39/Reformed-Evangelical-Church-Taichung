@@ -1,14 +1,5 @@
 import Link from "next/link";
-
-const links = [
-  { name: "關於基督教", href: "/christianity" },
-  { name: "關於我們", href: "/about" },
-  { name: "聚會與服務", href: "/events" },
-  { name: "訂閱與關注", href: "#subscribe" },
-  { name: "拜訪我們", href: "#visit" },
-  { name: "精選專題", href: "/topics" },
-  { name: "進修資源", href: "#resources" },
-];
+import QuickLinks from "@/components/QuickLinks";
 
 export default function Page() {
   return (
@@ -23,17 +14,7 @@ export default function Page() {
         </div>
       </header>
 
-      <section className="red-links">
-        <div className="red-links-container">
-          <nav className="links-grid" aria-label="快速連結">
-            {links.map((l) => (
-              <Link key={l.href} href={l.href} className="link-card">
-                <span>{l.name}</span>
-              </Link>
-            ))}
-          </nav>
-        </div>
-      </section>
+      <QuickLinks />
 
       <section className="gray-section-fullwidth">
         <div className="gray-container-content">

@@ -1,3 +1,5 @@
+import QuickLinks from "@/components/QuickLinks";
+
 type SubPageTemplateProps = {
   title: string;
   subtitle: string;
@@ -14,6 +16,8 @@ export default function SubPageTemplate({
   return (
     <main className="subpage">
       <div className="subpage-container">
+        <QuickLinks />
+
         <header className="subpage-banner">
           <h1>{title}</h1>
           <p>{subtitle}</p>
