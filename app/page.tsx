@@ -53,7 +53,7 @@ export default function Page() {
         <div className="features-container">
           <div className="features-grid">
             <article className="feature">
-              <Link href="/about" className="feature-link" aria-label="前往關於我們頁面">
+              <Link href="/about/faith" className="feature-link" aria-label="前往我們的信仰頁面">
                 <img src="/31.png" alt="我們的信仰" className="feature-image" />
                 <h3>我們的信仰</h3>
               </Link>

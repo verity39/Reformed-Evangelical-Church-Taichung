@@ -1,134 +1,53 @@
 import Link from "next/link";
 import QuickLinks from "@/components/QuickLinks";
 
+const visionText = `唐崇榮牧師在2014年佈道神學的講座中，問了一句：「發瘋的人在哪裡？」「今天有學問又肯為主發瘋的人在哪裡？現今教會的毛病就在這裡，有學問的人不肯發瘋，發瘋的人沒有學問。」唐牧師十年前所發出來的問題，直到今天還持續著震撼我的心。
+
+#在臺中重生得救
+彥佑並不是出生於基督教的家庭，而是在臺灣傳統信仰的生活中長大，甚至在大學時期還擔任佛教禪學社的社長；但傳統的價值觀、學校的教育制度乃至於佛教的人生思想，這些其實從來沒有真正解答我內心對於生命意義的疑惑，直到我在逢甲大學就讀研究所時，因著基督徒傳福音的緣故，我才有機會聽見耶穌基督的福音，並且開始參與教會的聚會活動，在主裡真正得到屬天的自由與喜樂，我正是在臺中受洗成為基督徒的。
+
+#歸正神學的啟蒙
+因著耶穌的救贖，我實在是將基督的福音以及和教會弟兄姊妹的相處視為寶貴，但在靈恩派的思想當中，我深深感到靈命的枯竭，我的生命迫切需要餵養；相信是主聽見的我的禱告，無意間在網路上找到了唐崇榮牧師的希伯來書查經講道，從此開啟了我對於歸正神學的渴慕；因著唐牧師在講台的供應，我真正相信神的話語的的確確是豐富無比，如同活水江河的供應，而不是如貧瘠死亡的曠野；碩士畢業後，我回到桃園的家鄉，並且經由正式的轉會禮加入臺北歸正福音教會，正式成為委身於歸正福音運動的基督徒。
+
+#歸正福音教會的必要性
+透過唐牧師屬靈的供應以及歸正福音教會的牧養，使我更加深愛主以及祂的福音，火熱的心推動我向人介紹基督的救贖以及歸正神學那精闢的洞見；然而這過程中我看見了一項無法忽視的困難，「儘管有人渴慕歸正神學的餵養，但他們卻找不到能夠委身的歸正教會」；這是很實際的問題，如果沒有歸正福音的講台在地方上樹立起來，如果沒有歸正福音教會真正在地方上牧養群羊，歸正福音的精神在臺灣是沒有辦法真正地培養起來，歸正福音運動在臺灣也不可能成為捍衛基督信仰的中堅力量。
+
+#蒙召作全時間事奉
+因著上帝奇妙的帶領，以及胡昌豪牧師（現任臺北歸正福音教會的主任牧師）的鼓勵與支持，我進入了唐崇榮牧師在雅加達所興辦的國際歸正福音神學院就讀神學碩士學位；就讀神學期間，在經歷了新冠病毒疫情的肆虐以及在印尼偏鄉佈道的過程中，對於傳揚主福音、建立歸正福音信仰的迫切性只有越加的鮮明與急迫。
+
+#建立臺中歸正福音團契
+經由眾人無數的禱告、牧者師長們的鼓勵以及唐崇榮牧師親自的祝福，於2024年11月，我與同工們決定在彥佑蒙恩得救的地方──臺中這塊土地上，建立歸正福音團契；我們從零開始，效法唐牧師勇敢奮鬥服事主的精神，盼望主的福音能在臺中興旺起來；施洗約翰像狂人一樣，在曠野大聲呼喊，但他所講的每一句話都是嚴謹的、符合聖經的真理，即便他事奉不久就為主殉道，但他為真理的熱心與事奉的果效是有目共睹的；使徒保羅的神學知識高超到一個地步，但他為主作見證、傳揚主福音的火熱程度卻絲毫不亞於他腦中學識的高度。「為主發瘋的人在哪裡？」這句話不只是對牧師傳道人發出的考題，乃是所有被主呼召的基督徒必須回應的問題；彥佑承認自己才疏學淺，能力極為有限，但因著上帝浩大的恩典，我願意謙卑在主的面前說：「主啊，我在這裡，請差遣我」。我們衷心期盼上帝在臺中興起忠於真理的講臺，盼望聖靈的靈火焚燒這個大地，阿們。
+
+#正式成立臺中歸正福音教會
+感謝上帝的保守帶領，經過一整年的查經，我們深知聖經中的真理與上帝的愛是何等長闊高深！在《以弗所書》裡，真正的和平、真正的合一唯有發生在基督裡；人與人之間的關係、人面對世界和各樣屬靈勢力應當有怎樣的立場，聖經早已清晰地給出指引；真信徒必須穿戴全副軍裝，時常以謙卑向主呼求的心志，在地上站立得穩，並且彰顯神的榮耀。
+
+因著上帝的慈愛，以及眾聖徒不斷地禱告和盼望之下，時候已到！臺中歸正福音教會於2025年11月迎來了第一次的主日崇拜；從第一次主日崇拜開始，世人必見證歸正福音運動之精神已於臺中這塊土地上深耕建造！我們不但堅定持守歸正神學信仰，傳福音的火熱與愛人如己的心也必要興起，最終達成以福音光照社會，以信仰挑戰時代的果效。我們持續向主禱告，願上帝親自召聚祂自己的羊群，主的羊必聽祂的聲音，在主的面前合成一群，一同敬拜至尊至榮至高的三位一體上帝，阿們。
+
+
+主僕
+彥佑、慧龍 敬筆
+`;
+
 export default function AboutPage() {
 	return (
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>關於我們</h1>
+					<h1>《臺中歸正福音教會之異象》</h1>
 					<p>ABOUT US</p>
 				</header>
 
 				<QuickLinks />
 
 				<section className="subpage-content about-content">
-					<h2>我們的信仰立場</h2>
+					<h2>《臺中歸正福音教會之異象》</h2>
+					<div style={{ whiteSpace: "pre-wrap", lineHeight: "1.9", color: "#555" }}>{visionText}</div>
 
-					<h3>我們是歸正福音教會（Reformed Evangelical Church）</h3>
-					<p>
-						臺中歸正福音教會為唐崇榮牧師創辦歸正福音教會之台中分會。我們與印尼總會及全球分會共同作出下列信仰告白：
-					</p>
-					<ul>
-						<li>
-							<Link href="/about/confession" className="text-link">
-								《歸正福音信仰宣言》
-							</Link>
-							（Reformed Evangelical Confession of Faith, 20th Century）
-						</li>
-						<li>
-							<Link href="/about/evangelism" className="text-link">
-								《佈道信約》
-							</Link>
-							（Confession of Evangelism, 20th Century）
-						</li>
-					</ul>
-					<p>
-						歸正福音教會以歸正神學／改革宗神學（Reformed Theology）為信仰立場，同時強調福音派（Evangelical）的佈道使命。
-					</p>
-
-					<h3>我們也是歸正教會／改革宗教會（Reformed Church）</h3>
-					<p>
-						我們追隨宗教改革運動領袖加爾文（John Calvin）的主張與精神，與全球歸正教會／改革宗教會共同信守歸正／改革宗信仰歷史中最重要的信經、信條：
-					</p>
-					<ul>
-						<li>
-							<Link href="/about/westminster" className="text-link">
-								《西敏信條》
-							</Link>
-							（Westminster Confession of Faith, 1646）
-						</li>
-						<li>
-							<Link href="/about/larger-catechism" className="text-link">
-								《西敏大要理問答》
-							</Link>
-							（Westminster Larger Catechism, 1647）
-						</li>
-						<li>
-							<Link href="/about/shorter-catechism" className="text-link">
-								《西敏小要理問答》
-							</Link>
-							（Westminster Shorter Catechism, 1647）
-						</li>
-						<li>
-							<Link href="/about/dort" className="text-link">
-								《多特信經》
-							</Link>
-							（The Canons of Dort, 1619）
-						</li>
-						<li>
-							<Link href="/about/heidelberg" className="text-link">
-								《海德堡要理問答》
-							</Link>
-							（The Heidelberg Catechism, 1563）
-						</li>
-						<li>
-							<Link href="/about/belgic" className="text-link">
-								《比利時信條》
-							</Link>
-							（The Belgic Confession of Faith, 1561）
-						</li>
-					</ul>
-					<p>
-						宗教改革運動（Reformation）簡單的說就是回歸聖經的運動。上列信經、信條呼籲教會回歸聖經，同時也修正了當時天主教信仰（Roman Catholic Church）逾越聖經之處，並且充分展現了宗教改革運動之精神－－五個惟獨（Five Solas）：惟獨恩典、惟獨信心、惟獨聖經、惟獨基督、惟獨一切榮耀歸給神。
-					</p>
-					<p>
-						我們推薦改革宗神學院（China Reformed Theological Seminary）對歷史上正統改革宗傳統之神學界限的歸納性解釋－－加爾文、法國胡格諾派、荷蘭歸正宗、蘇格蘭長老會、英國及美國的清教徒、17 世紀歸正正統、美國南方長老會、舊普林斯頓／西敏斯特神學院的傳統。
-					</p>
-
-					<h3>我們是普世基督教會的一部分／大公教會的成員</h3>
-					<p>我們與普世基督教會共同信守早期教會及大公會議制定的四個信經：</p>
-					<ul>
-						<li>
-							<Link href="/about/chalcedon" className="text-link">
-								《迦克墩信經》
-							</Link>
-							（Chalcedonian Creed, 451）
-						</li>
-						<li>
-							<Link href="/about/athanasian" className="text-link">
-								《亞他那修信經》
-							</Link>
-							（Athanasian Creed, 5th Century）
-						</li>
-						<li>
-							<Link href="/about/nicene" className="text-link">
-								《尼西亞信經》
-							</Link>
-							（Nicene Creed, 325）
-						</li>
-						<li>
-							<Link href="/about/apostles" className="text-link">
-								《使徒信經》
-							</Link>
-							（Apostles' Creed, 2th Century）
-						</li>
-					</ul>
-					<p>
-						以上列舉的信經形成了正統基督教會的最大共識。他們都努力地根據聖經述說教義，並按聖經提出了基督教信仰不可妥協的核心（福音之焦點）。這些信經的界限，同時提醒了人們應該提防那少數脫離歷史、誤解聖經的異端教導，例如：耶和華見證人（Jehovah’s Witnesses）、耶穌基督後期聖徒教會（俗稱摩門教，The Church of Jesus Christ of Latter-day Saints）。
-					</p>
-
-					<h3>我們否認與正統基督教信仰（聖經）相悖的主張</h3>
-					<p>
-						西方教會領袖根據改教運動回歸聖經的精神，對當代教會亂象提出針砭，我們嚴肅呼籲基督徒重視這兩個宣言：
-					</p>
-					<ul>
-						<li>《劍橋宣言》（Cambridge Declaration, 1996 ／ 五個惟獨的再強調）</li>
-						<li>《芝加哥聖經無誤宣言》（Chicago Statement on Biblical Inerrancy, 1978）</li>
-					</ul>
-					<p>
-						這些宣言一如歷代信經信條，提醒教會不可偏離聖經，警戒亟需匡正之時弊如：自由主義神學（Liberal Christianity）、新正統神學（Neo-orthodoxy）、靈恩運動（Charismatic Movement）、保羅新觀（N.T. Wright, New Perspective on Paul）及非難聖經無誤教義之觀點（以 Peter Enns, Inspiration and Incarnation 為代表）等。我們同時呼籲教會在這些牴觸聖經教導的學說上不要採取模稜兩可的立場。
-					</p>
+					<h3>
+						<Link href="/about/faith" className="text-link">
+							前往《我們的信仰》
+						</Link>
+					</h3>
 				</section>
 			</div>
 		</main>
