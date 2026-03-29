@@ -31,7 +31,7 @@ body{
 }
 .hero-overlay{
   background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/Paul-bg.png') center 30%/cover no-repeat;
-  max-width: var(--container);
+  max-width: calc(var(--container) + 48px);
   margin: 0 auto;
   height: 400px;
   width: 100%;
@@ -81,7 +81,7 @@ body{
 }
 .red-links-container{
   background: var(--maroon);
-  max-width: var(--container);
+  max-width: calc(var(--container) + 48px);
   margin: 0 auto;
   padding: 8px 0;
   border-radius: 0 0 8px 8px;
