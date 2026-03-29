@@ -235,13 +235,14 @@ body{
 .gray-section-fullwidth{
   margin: 0 auto;
   padding: 24px 0;
-  background: #fff;
+  background: #f5f3f0;
   color: #333;
 }
 .gray-container-content{
-  max-width: var(--container);
+  max-width: calc(var(--container) - 48px);
   margin: 0 auto;
   padding: 0 48px;
+  background: #fff;
 }
 .gray-section h2{
   text-align: center;
@@ -673,7 +674,7 @@ body{
     padding: 40px 32px;
   }
   .gray-section-fullwidth{
-    margin: 0 -32px 0 -32px;
+    margin: 0 auto;
     padding: 40px 0;
   }
   .subpage{
