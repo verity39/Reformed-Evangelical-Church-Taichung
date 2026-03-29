@@ -42,7 +42,7 @@ export default function Page() {
               <div className="event-content">
                 <h3>聚會活動</h3>
                 <div className="event-date">每週五 7:00 PM</div>
-                <p className="event-description">主日聚會<br />核心教義課程</p>
+                <p className="event-description">主日聚會<br />核心教義課程<br />週三線上查經</p>
               </div>
             </article>
           </div>
