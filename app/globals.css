@@ -152,14 +152,14 @@ body{
 
 /* Features */
 .three-features{
-  padding: 20px 48px;
+  padding: 12px 48px;
   background: #f5f3f0;
   color: #333;
 }
 .features-container{
   max-width: var(--container);
   margin: 0 auto;
-  padding: 16px 0;
+  padding: 8px 0;
   text-align: center;
 }
 .main-title{
@@ -231,7 +231,7 @@ body{
 }
 .gray-section-fullwidth{
   margin: 0 -48px 0 -48px;
-  padding: 40px 0;
+  padding: 24px 0;
   background: #f5f3f0;
   color: #333;
 }
