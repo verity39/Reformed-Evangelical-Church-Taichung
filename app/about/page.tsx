@@ -33,14 +33,14 @@ export default function AboutPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《臺中歸正福音教會之異象》</h1>
+					<h1>臺中歸正福音教會之異象</h1>
 					<p>ABOUT US</p>
 				</header>
 
 				<QuickLinks />
 
 				<section className="subpage-content about-content">
-					<h2>《臺中歸正福音教會之異象》</h2>
+					<h2>臺中歸正福音教會之異象</h2>
 					<div style={{ whiteSpace: "pre-wrap", lineHeight: "1.9", color: "#555" }}>{visionText}</div>
 
 					<h3>
