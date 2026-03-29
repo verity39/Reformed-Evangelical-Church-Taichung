@@ -107,7 +107,12 @@ export default function AboutPage() {
 							</Link>
 							（Nicene Creed, 325）
 						</li>
-						<li>《使徒信經》（Apostles' Creed, 2th Century）</li>
+						<li>
+							<Link href="/about/apostles" className="text-link">
+								《使徒信經》
+							</Link>
+							（Apostles' Creed, 2th Century）
+						</li>
 					</ul>
 					<p>
 						以上列舉的信經形成了正統基督教會的最大共識。他們都努力地根據聖經述說教義，並按聖經提出了基督教信仰不可妥協的核心（福音之焦點）。這些信經的界限，同時提醒了人們應該提防那少數脫離歷史、誤解聖經的異端教導，例如：耶和華見證人（Jehovah’s Witnesses）、耶穌基督後期聖徒教會（俗稱摩門教，The Church of Jesus Christ of Latter-day Saints）。
