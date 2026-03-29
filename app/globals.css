@@ -152,7 +152,7 @@ body{
 
 /* Features */
 .three-features{
-  padding: 24px 48px;
+  padding: 0 48px;
   background: #f5f3f0;
   color: #333;
 }
@@ -235,7 +235,7 @@ body{
 .gray-section-fullwidth{
   margin: 0 -48px 0 -48px;
   padding: 24px 0;
-  background: #f5f3f0;
+  background: #fff;
   color: #333;
 }
 .gray-container-content{
