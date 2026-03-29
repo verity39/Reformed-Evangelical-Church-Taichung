@@ -73,6 +73,29 @@ export default function Page() {
           </div>
         </div>
       </section>
+
+      <section id="visit" className="visit-section">
+        <div className="visit-container">
+          <h2>拜訪我們</h2>
+          <p className="subtitle">VISIT US</p>
+          
+          <div className="visit-content">
+            <div className="visit-item">
+              <h3>教會地址</h3>
+              <p>臺中市西區台灣大道二段186號11樓之2B<br />(中港通商大樓)</p>
+            </div>
+
+            <div className="visit-item">
+              <h3>聯繫方式</h3>
+              <div className="contact-links">
+                <a href="https://line.me/ti/p/~lineaccount" target="_blank" rel="noreferrer" className="contact-btn">LINE</a>
+                <a href="https://www.facebook.com/p/%E8%87%BA%E4%B8%AD%E6%AD%B8%E6%AD%A3%E7%A6%8F%E9%9F%B3%E6%95%99%E6%9C%83-61567725549761/" target="_blank" rel="noreferrer" className="contact-btn">Facebook</a>
+                <a href="mailto:contact@example.com" className="contact-btn">郵件</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }
