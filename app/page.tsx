@@ -59,7 +59,7 @@ export default function Page() {
               </Link>
             </article>
             <article className="feature">
-              <Link href="/about" className="feature-link" aria-label="前往我們的教會頁面">
+              <Link href="/church" className="feature-link" aria-label="前往我們的教會頁面">
                 <img src="/church.png" alt="我們的教會" className="feature-image" />
                 <h3>我們的教會</h3>
               </Link>
