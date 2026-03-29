@@ -101,7 +101,12 @@ export default function AboutPage() {
 							</Link>
 							（Athanasian Creed, 5th Century）
 						</li>
-						<li>《尼西亞信經》（Nicene Creed, 325）</li>
+						<li>
+							<Link href="/about/nicene" className="text-link">
+								《尼西亞信經》
+							</Link>
+							（Nicene Creed, 325）
+						</li>
 						<li>《使徒信經》（Apostles' Creed, 2th Century）</li>
 					</ul>
 					<p>
