@@ -28,7 +28,7 @@ export default function AboutPage() {
 						</li>
 						<li>
 							<Link href="/about/evangelism" className="text-link">
-								佈道信約
+								《佈道信約》
 							</Link>
 							（Confession of Evangelism, 20th Century）
 						</li>
