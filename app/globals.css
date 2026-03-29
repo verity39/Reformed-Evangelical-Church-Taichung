@@ -152,15 +152,18 @@ body{
 
 /* Features */
 .three-features{
-  padding: 12px 48px;
+  padding: 16px 48px;
   background: #f5f3f0;
   color: #333;
 }
 .features-container{
   max-width: var(--container);
   margin: 0 auto;
-  padding: 8px 0;
+  padding: 24px;
   text-align: center;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 .main-title{
   font-size: 32px;
