@@ -364,7 +364,7 @@ body{
   padding: 22px 28px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   min-height: 80px;
 }
 .subpage-banner h1{
@@ -374,7 +374,7 @@ body{
   display: none;
 }
 .banner-logo{
-  height: 50px;
+  height: 70px;
   width: auto;
 }
 .banner-home-btn{
