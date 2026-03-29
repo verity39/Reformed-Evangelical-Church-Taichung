@@ -244,13 +244,15 @@ body{
   padding: 0 48px;
   background: #fff;
 }
-.gray-section h2{
+.gray-section h2,
+.gray-section-fullwidth h2{
   text-align: center;
   font-size: 36px;
   margin: 0 0 16px;
   color: #333;
 }
-.gray-section .subtitle{
+.gray-section .subtitle,
+.gray-section-fullwidth .subtitle{
   text-align: center;
   font-size: 16px;
   color: #666;
