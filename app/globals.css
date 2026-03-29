@@ -368,6 +368,30 @@ body{
   margin: 8px 0 0;
   opacity: 0.92;
 }
+.banner-home-btn{
+  display: none;
+}
+.subpage .banner-home-btn{
+  display: inline-block;
+  position: absolute;
+  top: -54px;
+  right: 28px;
+  padding: 7px 12px;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  transition: background 0.2s, color 0.2s;
+}
+.subpage .banner-home-btn:hover{
+  background: #fff;
+  color: var(--maroon);
+}
+.subpage .red-links{
+  position: relative;
+}
 .subpage-content{
   background: #fff;
   border-radius: 0 0 8px 8px;
@@ -505,6 +529,12 @@ body{
   }
   .subpage-banner h1{
     font-size: 26px;
+  }
+  .subpage .banner-home-btn{
+    top: -50px;
+    right: 22px;
+    font-size: 13px;
+    padding: 6px 10px;
   }
   .subpage .red-links-container{
     padding: 12px 22px;

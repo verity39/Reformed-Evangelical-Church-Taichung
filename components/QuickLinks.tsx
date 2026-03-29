@@ -14,6 +14,9 @@ export default function QuickLinks() {
   return (
     <section className="red-links">
       <div className="red-links-container">
+        <Link href="/" className="banner-home-btn" aria-label="回首頁">
+          回首頁
+        </Link>
         <nav className="links-grid" aria-label="快速連結">
           {quickLinks.map((link) => (
             <Link key={link.href} href={link.href} className="link-card">
