@@ -127,7 +127,12 @@ export default function AboutPage() {
 							</Link>
 							（Cambridge Declaration, 1996 ／ 五個惟獨的再強調）
 						</li>
-						<li>《芝加哥聖經無誤宣言》（Chicago Statement on Biblical Inerrancy, 1978）</li>
+						<li>
+							<Link href="/about/chicago" className="text-link">
+								《芝加哥聖經無誤宣言》
+							</Link>
+							（Chicago Statement on Biblical Inerrancy, 1978）
+						</li>
 					</ul>
 					<p>
 						這些宣言一如歷代信經信條，提醒教會不可偏離聖經，警戒亟需匡正之時弊如：自由主義神學（Liberal Christianity）、新正統神學（Neo-orthodoxy）、靈恩運動（Charismatic Movement）、保羅新觀（N.T. Wright, New Perspective on Paul）及非難聖經無誤教義之觀點（以 Peter Enns, Inspiration and Incarnation 為代表）等。我們同時呼籲教會在這些牴觸聖經教導的學說上不要採取模稜兩可的立場。
