@@ -89,7 +89,12 @@ export default function AboutPage() {
 					<h3>我們是普世基督教會的一部分／大公教會的成員</h3>
 					<p>我們與普世基督教會共同信守早期教會及大公會議制定的四個信經：</p>
 					<ul>
-						<li>《迦克墩信經》（Chalcedonian Creed, 451）</li>
+						<li>
+							<Link href="/about/chalcedon" className="text-link">
+								《迦克墩信經》
+							</Link>
+							（Chalcedonian Creed, 451）
+						</li>
 						<li>《亞他那修信經》（Athanasian Creed, 5th Century）</li>
 						<li>《尼西亞信經》（Nicene Creed, 325）</li>
 						<li>《使徒信經》（Apostles' Creed, 2th Century）</li>
