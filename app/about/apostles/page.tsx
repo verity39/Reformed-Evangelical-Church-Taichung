@@ -35,7 +35,8 @@ export default function ApostlesPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-				<img src="/logo.png" alt="Logo" className="banner-logo" />
+					<img src="/logo.png" alt="Logo" className="banner-logo" />
+				</header>
 
 				<QuickLinks />
 

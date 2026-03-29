@@ -5,10 +5,8 @@ export default function ChurchPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《臺中歸正福音教會》簡介</h1>
-					<p>OUR CHURCH</p>
-				</header>
-
+			<img src="/logo.png" alt="Logo" className="banner-logo" />
+		</header>
 				<QuickLinks />
 
 				<section className="subpage-content about-content">

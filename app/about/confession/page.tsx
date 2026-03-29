@@ -3,9 +3,8 @@ export default function ConfessionPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>歸正福音信仰宣言</h1>
-					<p>REFORMED EVANGELICAL CONFESSION OF FAITH</p>
-				</header>
+			<img src="/logo.png" alt="Logo" className="banner-logo" />
+		</header>
 
 				<section className="subpage-content about-content">
 					<h3>神</h3>

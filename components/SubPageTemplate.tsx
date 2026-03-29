@@ -17,8 +17,7 @@ export default function SubPageTemplate({
     <main className="subpage">
       <div className="subpage-container">
         <header className="subpage-banner">
-          <h1>{title}</h1>
-          <p>{subtitle}</p>
+          <img src="/logo.png" alt="Logo" className="banner-logo" />
         </header>
 
         <QuickLinks />

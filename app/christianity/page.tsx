@@ -96,10 +96,8 @@ export default function ChristianityPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>關於歸正福音運動</h1>
-					<p>ABOUT REFORMED EVANGELICAL MOVEMENT</p>
-				</header>
-
+			<img src="/logo.png" alt="Logo" className="banner-logo" />
+		</header>
 				<QuickLinks />
 
 				<section className="subpage-content about-content">

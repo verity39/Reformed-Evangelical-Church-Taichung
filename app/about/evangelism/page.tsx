@@ -3,8 +3,7 @@ export default function EvangelismPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>佈道信約</h1>
-					<p>CONFESSION OF EVANGELISM</p>
+					<img src="/logo.png" alt="Logo" className="banner-logo" />
 				</header>
 
 				<section className="subpage-content about-content">

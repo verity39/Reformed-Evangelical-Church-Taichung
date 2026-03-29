@@ -6,10 +6,8 @@ export default function AboutPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>我們的信仰</h1>
-					<p>OUR FAITH</p>
-				</header>
-
+			<img src="/logo.png" alt="Logo" className="banner-logo" />
+		</header>
 				<QuickLinks />
 
 				<section className="subpage-content about-content">

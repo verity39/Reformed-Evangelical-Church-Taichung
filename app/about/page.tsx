@@ -33,10 +33,8 @@ export default function AboutPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>臺中歸正福音教會之異象</h1>
-					<p>ABOUT US</p>
-				</header>
-
+			<img src="/logo.png" alt="Logo" className="banner-logo" />
+		</header>
 				<QuickLinks />
 
 				<section className="subpage-content about-content">

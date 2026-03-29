@@ -362,15 +362,20 @@ body{
   color: #fff;
   border-radius: 8px 8px 0 0;
   padding: 22px 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80px;
 }
 .subpage-banner h1{
-  margin: 0;
-  font-size: 32px;
-  font-weight: 700;
+  display: none;
 }
 .subpage-banner p{
-  margin: 8px 0 0;
-  opacity: 0.92;
+  display: none;
+}
+.banner-logo{
+  height: 50px;
+  width: auto;
 }
 .banner-home-btn{
   display: none;
