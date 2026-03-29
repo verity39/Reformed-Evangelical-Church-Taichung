@@ -72,7 +72,12 @@ export default function AboutPage() {
 							</Link>
 							（The Heidelberg Catechism, 1563）
 						</li>
-						<li>《比利時信條》（The Belgic Confession of Faith, 1561）</li>
+						<li>
+							<Link href="/about/belgic" className="text-link">
+								《比利時信條》
+							</Link>
+							（The Belgic Confession of Faith, 1561）
+						</li>
 					</ul>
 					<p>
 						宗教改革運動（Reformation）簡單的說就是回歸聖經的運動。上列信經、信條呼籲教會回歸聖經，同時也修正了當時天主教信仰（Roman Catholic Church）逾越聖經之處，並且充分展現了宗教改革運動之精神－－五個惟獨（Five Solas）：惟獨恩典、惟獨信心、惟獨聖經、惟獨基督、惟獨一切榮耀歸給神。
