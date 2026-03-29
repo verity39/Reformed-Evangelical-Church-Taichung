@@ -60,7 +60,12 @@ export default function AboutPage() {
 							</Link>
 							（Westminster Shorter Catechism, 1647）
 						</li>
-						<li>《多特信經》（The Canons of Dort, 1619）</li>
+						<li>
+							<Link href="/about/dort" className="text-link">
+								《多特信經》
+							</Link>
+							（The Canons of Dort, 1619）
+						</li>
 						<li>《海德堡要理問答》（The Heidelberg Catechism, 1563）</li>
 						<li>《比利時信條》（The Belgic Confession of Faith, 1561）</li>
 					</ul>
