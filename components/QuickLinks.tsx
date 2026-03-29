@@ -5,7 +5,7 @@ const quickLinks = [
   { name: "關於我們", href: "/about" },
   { name: "聚會與服務", href: "/events" },
   { name: "訂閱與關注", href: "/subscribe" },
-  { name: "拜訪我們", href: "/visit" },
+  { name: "聯繫與拜訪", href: "/visit" },
   { name: "精選專題", href: "/topics" },
   { name: "進修資源", href: "/#resources" },
 ];

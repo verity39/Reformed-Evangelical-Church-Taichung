@@ -522,6 +522,13 @@ body{
   transform: translateY(-2px);
 }
 
+.map-container{
+  margin-top: 16px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
 /* Visit Page Content (Subpage version) */
 .visit-page-content{
   display: grid;
