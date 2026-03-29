@@ -48,8 +48,18 @@ export default function AboutPage() {
 							</Link>
 							（Westminster Confession of Faith, 1646）
 						</li>
-						<li>《西敏大要理問答》（Westminster Larger Catechism, 1647）</li>
-						<li>《西敏小要理問答》（Westminster Shorter Catechism, 1647）</li>
+						<li>
+							<Link href="/about/larger-catechism" className="text-link">
+								《西敏大要理問答》
+							</Link>
+							（Westminster Larger Catechism, 1647）
+						</li>
+						<li>
+							<Link href="/about/shorter-catechism" className="text-link">
+								《西敏小要理問答》
+							</Link>
+							（Westminster Shorter Catechism, 1647）
+						</li>
 						<li>《多特信經》（The Canons of Dort, 1619）</li>
 						<li>《海德堡要理問答》（The Heidelberg Catechism, 1563）</li>
 						<li>《比利時信條》（The Belgic Confession of Faith, 1561）</li>
