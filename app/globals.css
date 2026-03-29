@@ -557,6 +557,37 @@ body{
   color: #555;
 }
 
+/* Events Page Content */
+.events-content{
+  display: grid;
+  gap: 32px;
+}
+.event-item{
+  padding: 24px;
+  border-left: 4px solid var(--maroon);
+  background: #fafafa;
+  border-radius: 4px;
+}
+.event-item h3{
+  margin: 0 0 12px;
+  font-size: 20px;
+  color: var(--maroon);
+  font-weight: 600;
+}
+.event-item p{
+  margin: 0 0 8px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+}
+.event-item p:last-child{
+  margin-bottom: 0;
+}
+.event-details{
+  margin-top: 12px;
+  font-size: 15px;
+}
+
 /* Responsive */
 @media (max-width: 900px){
   .links-grid{

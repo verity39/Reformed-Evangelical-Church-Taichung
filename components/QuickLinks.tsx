@@ -3,7 +3,7 @@ import Link from "next/link";
 const quickLinks = [
   { name: "關於歸正福音運動", href: "/christianity" },
   { name: "關於我們", href: "/about" },
-  { name: "聚會與服務", href: "/events" },
+  { name: "聚會與活動", href: "/events" },
   { name: "訂閱與關注", href: "/subscribe" },
   { name: "聯繫與拜訪", href: "/visit" },
   { name: "精選專題", href: "/topics" },
