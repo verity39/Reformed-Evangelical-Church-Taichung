@@ -67,9 +67,7 @@ export default function AthanasianPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《亞他那修信經》</h1>
-					<p>The Athanasian Creed (5th Century)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 

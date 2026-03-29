@@ -6,9 +6,7 @@ export default function LargerCatechismPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《西敏大要理問答》</h1>
-					<p>Westminster Larger Catechism (1647)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 

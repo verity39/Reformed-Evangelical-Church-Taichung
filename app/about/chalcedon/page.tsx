@@ -22,9 +22,7 @@ export default function ChalcedonPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《迦克墩信經》</h1>
-					<p>The Chalcedonian Creed (451)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 

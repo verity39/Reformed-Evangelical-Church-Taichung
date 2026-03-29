@@ -6,9 +6,7 @@ export default function ShorterCatechismPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《西敏小要理問答》</h1>
-					<p>Westminster Shorter Catechism (1647)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 

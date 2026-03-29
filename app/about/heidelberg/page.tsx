@@ -756,9 +756,7 @@ export default function HeidelbergPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《海德堡要理問答》</h1>
-					<p>The Heidelberg Catechism (1563)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 

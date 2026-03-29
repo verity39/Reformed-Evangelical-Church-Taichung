@@ -65,9 +65,7 @@ export default function WestminsterPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>西敏信條</h1>
-					<p>WESTMINSTER CONFESSION OF FAITH</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<section className="subpage-content about-content">
 					<pre className="document-text">{westminsterText}</pre>

@@ -30,9 +30,7 @@ export default function NicenePage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《尼西亞信經》</h1>
-					<p>The Nicene Creed (325)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 

@@ -226,9 +226,7 @@ export default function BelgicPage() {
 		<main className="subpage">
 			<div className="subpage-container">
 				<header className="subpage-banner">
-					<h1>《比利時信條》</h1>
-					<p>The Belgic Confession of Faith (1561)</p>
-				</header>
+				<img src="/logo.png" alt="Logo" className="banner-logo" />
 
 				<QuickLinks />
 
