@@ -121,29 +121,32 @@ body{
 .subpage .red-links-container{
   max-width: none;
   margin: 0;
-  padding: 14px 28px;
+  padding: 0;
   background: #fff;
   border-radius: 0;
   box-shadow: none;
 }
 .subpage .links-grid{
-  padding: 0;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 10px;
+  padding: 0 28px;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0;
 }
 .subpage .link-card{
-  box-sizing: border-box;
-  background: #fff;
+  background: transparent;
   color: var(--maroon);
-  border: 1px solid rgba(122,32,34,0.35);
-  border-radius: 4px;
+  border: none;
+  border-right: 1px solid rgba(122,32,34,0.3);
+  border-radius: 0;
+  padding: 10px 12px;
+  font-weight: 600;
+  font-size: 13px;
 }
 .subpage .link-card:last-child{
-  border-right: 1px solid rgba(122,32,34,0.35);
+  border-right: none;
 }
 .subpage .link-card:hover{
-  background: var(--maroon);
-  color: #fff;
+  background: rgba(122,32,34,0.08);
+  color: var(--maroon);
 }
 
 /* Features */
