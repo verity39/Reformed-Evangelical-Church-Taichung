@@ -66,7 +66,12 @@ export default function AboutPage() {
 							</Link>
 							（The Canons of Dort, 1619）
 						</li>
-						<li>《海德堡要理問答》（The Heidelberg Catechism, 1563）</li>
+						<li>
+							<Link href="/about/heidelberg" className="text-link">
+								《海德堡要理問答》
+							</Link>
+							（The Heidelberg Catechism, 1563）
+						</li>
 						<li>《比利時信條》（The Belgic Confession of Faith, 1561）</li>
 					</ul>
 					<p>
