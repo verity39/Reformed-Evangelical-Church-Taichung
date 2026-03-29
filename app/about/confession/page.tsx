@@ -1,3 +1,5 @@
+import QuickLinks from "@/components/QuickLinks";
+
 export default function ConfessionPage() {
 	return (
 		<main className="subpage">
@@ -5,6 +7,7 @@ export default function ConfessionPage() {
 				<header className="subpage-banner">
 			<img src="/logo.png" alt="Logo" className="banner-logo" />
 		</header>
+				<QuickLinks />
 
 				<section className="subpage-content about-content">
 					<h3>神</h3>

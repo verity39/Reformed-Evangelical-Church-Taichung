@@ -1,3 +1,5 @@
+import QuickLinks from "@/components/QuickLinks";
+
 const westminsterText = `自伊利沙白女王一世以來，英國聖公會成為主教制，就是由女王直接委任主教治理地方教會，並在公共崇拜中遺傳許多天主教的禮儀，此舉引起許多改革的新教徒的不滿，這群忠於改革的人就是當時的清教徒。在 1643 年，查理士一世（Charles）當政之時（1625 - 1649），當時議院的議員以清教徒居多，他們期盼以清教徒改革原則重整英國教會，於是在西敏大教堂召開了一個大型的議會，與會人士有 121 位牧師、30 位議院的議員，及 8 位列席的蘇格蘭代表。對於教會應採取的體制，人人看法不同，而以贊成長老制者居多；在神學立場上，大家則一致認同加爾文的觀點，否定亞米念派及羅馬天主教。
 
 經過三年的討論，議會於 1646 年 12 月完成了西敏信條，供日後議院及議會之用。信條的內容完整、精確、簡潔、平衡，每一個句子都經過小組的討論及公開的辯論，參與陣容之堅強也屬罕見。信條於數個月後加入聖經的章節引証，是年六月得到議院的批准。
@@ -67,6 +69,7 @@ export default function WestminsterPage() {
 				<header className="subpage-banner">
 					<img src="/logo.png" alt="Logo" className="banner-logo" />
 				</header>
+				<QuickLinks />
 
 				<section className="subpage-content about-content">
 					<pre className="document-text">{westminsterText}</pre>

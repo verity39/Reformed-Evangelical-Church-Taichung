@@ -1,3 +1,5 @@
+import QuickLinks from "@/components/QuickLinks";
+
 export default function EvangelismPage() {
 	return (
 		<main className="subpage">
@@ -5,6 +7,7 @@ export default function EvangelismPage() {
 				<header className="subpage-banner">
 					<img src="/logo.png" alt="Logo" className="banner-logo" />
 				</header>
+				<QuickLinks />
 
 				<section className="subpage-content about-content">
 					<p>我相信福音是神的大能，要拯救一切相信的人。</p>
