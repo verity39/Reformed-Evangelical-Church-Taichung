@@ -234,7 +234,7 @@ body{
 }
 .gray-section-fullwidth{
   margin: 0 auto;
-  padding: 24px 0;
+  padding: 0;
   background: #f5f3f0;
   color: #333;
 }
@@ -656,7 +656,7 @@ body{
     padding: 0 32px;
   }
   .three-features{
-    padding: 20px 32px;
+    padding: 0 32px;
   }
   .hero-overlay{
     height: 280px;
@@ -675,7 +675,7 @@ body{
   }
   .gray-section-fullwidth{
     margin: 0 auto;
-    padding: 40px 0;
+    padding: 0;
   }
   .subpage{
     padding: 0 32px 44px;
