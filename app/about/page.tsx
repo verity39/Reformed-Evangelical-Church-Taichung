@@ -5,12 +5,12 @@ export default function AboutPage() {
 	return (
 		<main className="subpage">
 			<div className="subpage-container">
-				<QuickLinks />
-
 				<header className="subpage-banner">
 					<h1>關於我們</h1>
 					<p>ABOUT US</p>
 				</header>
+
+				<QuickLinks />
 
 				<section className="subpage-content about-content">
 					<h2>我們的信仰立場</h2>
