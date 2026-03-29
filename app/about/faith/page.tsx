@@ -121,7 +121,12 @@ export default function AboutPage() {
 						西方教會領袖根據改教運動回歸聖經的精神，對當代教會亂象提出針砭，我們嚴肅呼籲基督徒重視這兩個宣言：
 					</p>
 					<ul>
-						<li>《劍橋宣言》（Cambridge Declaration, 1996 ／ 五個惟獨的再強調）</li>
+						<li>
+							<Link href="/about/cambridge" className="text-link">
+								《劍橋宣言》
+							</Link>
+							（Cambridge Declaration, 1996 ／ 五個惟獨的再強調）
+						</li>
 						<li>《芝加哥聖經無誤宣言》（Chicago Statement on Biblical Inerrancy, 1978）</li>
 					</ul>
 					<p>
