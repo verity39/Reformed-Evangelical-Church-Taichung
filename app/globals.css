@@ -233,7 +233,7 @@ body{
   border-radius: 8px;
 }
 .gray-section-fullwidth{
-  margin: 0 -48px 0 -48px;
+  margin: 0 auto;
   padding: 24px 0;
   background: #fff;
   color: #333;
