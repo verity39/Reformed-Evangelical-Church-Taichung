@@ -41,7 +41,7 @@ export default function Page() {
               <img src="/03.jpg" alt="聚會活動" className="event-image" />
               <div className="event-content">
                 <h3>聚會活動</h3>
-                <div className="event-date">每週五 7:00 PM</div>
+                <div className="event-date">我們目前的聚會有</div>
                 <p className="event-description">主日聚會<br />核心教義課程<br />週三線上查經</p>
               </div>
             </article>
