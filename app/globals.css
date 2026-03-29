@@ -235,7 +235,7 @@ body{
   border-radius: 8px;
 }
 .gray-section-fullwidth{
-  margin: 0 auto;
+  margin: 0 auto 28px;
   padding: 0;
   background: #f5f3f0;
   color: #333;
