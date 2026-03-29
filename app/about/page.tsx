@@ -44,7 +44,7 @@ export default function AboutPage() {
 					<ul>
 						<li>
 							<Link href="/about/westminster" className="text-link">
-								西敏信條
+								《西敏信條》
 							</Link>
 							（Westminster Confession of Faith, 1646）
 						</li>
