@@ -152,8 +152,8 @@ body{
 
 /* Features */
 .three-features{
-  padding: 0 48px;
-  background: #fff;
+  padding: 24px 48px;
+  background: #f5f3f0;
   color: #333;
 }
 .features-container{
@@ -174,7 +174,7 @@ body{
 }
 .features-grid{
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 28px;
   align-items: start;
 }
