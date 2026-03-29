@@ -16,6 +16,31 @@ export default function Page() {
 
       <QuickLinks />
 
+      <section className="three-features">
+        <div className="features-container">
+          <div className="features-grid">
+            <article className="feature">
+              <Link href="/about/faith" className="feature-link" aria-label="前往我們的信仰頁面">
+                <img src="/31.png" alt="我們的信仰" className="feature-image" />
+                <h3>我們的信仰</h3>
+              </Link>
+            </article>
+            <article className="feature">
+              <Link href="/church" className="feature-link" aria-label="前往我們的教會頁面">
+                <img src="/church.png" alt="我們的教會" className="feature-image" />
+                <h3>我們的教會</h3>
+              </Link>
+            </article>
+            <article className="feature">
+              <Link href="/topics" className="feature-link" aria-label="前往我們的使命頁面">
+                <img src="/Pigeon.png" alt="我們的使命" className="feature-image" />
+                <h3>我們的使命</h3>
+              </Link>
+            </article>
+          </div>
+        </div>
+      </section>
+
       <section className="gray-section-fullwidth">
         <div className="gray-container-content">
           <h2>近期活動</h2>
@@ -44,31 +69,6 @@ export default function Page() {
                 <div className="event-date">我們目前的聚會有</div>
                 <p className="event-description">主日聚會<br />核心教義課程<br />週三線上查經</p>
               </div>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section className="three-features">
-        <div className="features-container">
-          <div className="features-grid">
-            <article className="feature">
-              <Link href="/about/faith" className="feature-link" aria-label="前往我們的信仰頁面">
-                <img src="/31.png" alt="我們的信仰" className="feature-image" />
-                <h3>我們的信仰</h3>
-              </Link>
-            </article>
-            <article className="feature">
-              <Link href="/church" className="feature-link" aria-label="前往我們的教會頁面">
-                <img src="/church.png" alt="我們的教會" className="feature-image" />
-                <h3>我們的教會</h3>
-              </Link>
-            </article>
-            <article className="feature">
-              <Link href="/topics" className="feature-link" aria-label="前往我們的使命頁面">
-                <img src="/Pigeon.png" alt="我們的使命" className="feature-image" />
-                <h3>我們的使命</h3>
-              </Link>
             </article>
           </div>
         </div>
