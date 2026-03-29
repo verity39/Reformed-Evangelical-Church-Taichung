@@ -8,8 +8,6 @@ export default function Page() {
         <div className="hero-overlay">
           <div className="hero-content">
             <img src="/logo.png" alt="Reformed Evangelical Church Taichung" className="hero-logo" />
-            <p>週三線上 以弗所書查經課程</p>
-            <Link href="/about" className="primary-btn">關於查經</Link>
           </div>
         </div>
       </header>
