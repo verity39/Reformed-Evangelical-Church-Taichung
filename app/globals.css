@@ -121,7 +121,7 @@ body{
 .subpage .red-links-container{
   max-width: none;
   margin: 0;
-  padding: 0;
+  padding: 12px 0;
   background: #fff;
   border-radius: 0;
   box-shadow: none;
@@ -130,6 +130,7 @@ body{
   padding: 0 28px;
   grid-template-columns: repeat(7, 1fr);
   gap: 0;
+  align-items: center;
 }
 .subpage .link-card{
   background: transparent;
