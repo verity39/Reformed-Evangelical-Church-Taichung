@@ -22,7 +22,7 @@ export default function AboutPage() {
 					<ul>
 						<li>
 							<Link href="/about/confession" className="text-link">
-								歸正福音信仰宣言
+								《歸正福音信仰宣言》
 							</Link>
 							（Reformed Evangelical Confession of Faith, 20th Century）
 						</li>
