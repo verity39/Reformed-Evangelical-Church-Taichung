@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const quickLinks = [
   { name: "關於基督教", href: "/christianity" },
-  { name: "關於我", href: "/about" },
+  { name: "關於我們", href: "/about" },
   { name: "聚會與服務", href: "/events" },
   { name: "訂閱與關注", href: "/#subscribe" },
   { name: "拜訪我們", href: "/#visit" },
